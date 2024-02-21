@@ -3,6 +3,8 @@
 ## Introduction
 This repository contains a Tableau dashboard that reviews British Airways based on various service aspects. The dashboard incorporates data from two datasets: `ba_reviews.csv` and `Countries.csv`. The former includes detailed reviews of British Airways flights, while the latter provides information about countries.
 
+![image](https://github.com/pedronatanaelfs/bitish_airways_review/assets/125995273/14361d08-1db3-40fa-b89d-2ebbca8b1728)
+
 ## Data Sources
 
 ### First Dataset: `ba_reviews.csv`
