@@ -1,5 +1,7 @@
 # Tableau Dashboard for British Airways Reviews
 
+[Click Here to access the dashboard](https://public.tableau.com/app/profile/pedro.silva2269/viz/BritishAirwaysReview_17084830858500/Painel1?publish=yes)
+
 ## Introduction
 This repository contains a Tableau dashboard that reviews British Airways based on various service aspects. The dashboard incorporates data from two datasets: `ba_reviews.csv` and `Countries.csv`. The former includes detailed reviews of British Airways flights, while the latter provides information about countries.
 
